@@ -1,0 +1,1 @@
+# nansya-outfit-generator
